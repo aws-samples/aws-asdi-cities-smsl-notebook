@@ -6,7 +6,6 @@ dependencies:
 - python>=3.8
 - numpy
 - matplotlib
-- datetime
 - jupyter
 - boto
 - boto3
@@ -15,4 +14,3 @@ dependencies:
 - geopandas
 - shapely
 - pandas
-- json
