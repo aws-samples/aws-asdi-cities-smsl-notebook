@@ -1,0 +1,1 @@
+Data retrieved from **NOAA U.S. Climate Normals:** https://registry.opendata.aws/noaa-climate-normals/.

@@ -1,0 +1,1 @@
+Data is retrieved from **Clark County GIS Management Office:** https://clarkcountygis-ccgismo.hub.arcgis.com/search?collection=Dataset and **ArcGIS Hub:** https://hub.arcgis.com/search?collection=Dataset.
