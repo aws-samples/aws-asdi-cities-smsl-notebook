@@ -21,16 +21,27 @@ The Jupyter notebook uses datasets from multiple sources, including the Amazon S
 The code repo uses the following directories to store each data source:
 
 aws-asdi-cities-smsl-notebook
+
 |── `Data1_NV_State`               <- Datasets from Clark County GIS Management Office and ArcGIS Hub
+
 |── `Data2_ASDI1_OpenAQ`           <- Datasets from OpenAQ API 
+
 |── `Data3_ASDI2_NOAA_US`          <- Datasets from s3://noaa-normals-pds/
+
 |── `Data4_ASDI3_CIESIN_Meta`      <- Datasets from s3://datafordgood-fb-data/demographic_csvs/
+
 |── `Data5_ASDI4_OpenCityModel`    <- Datasets from s3://opencitymodel/2019-jun/
+
 |── ASDI_Cities_Demo.ipynb         <- Jupyter notebook performing analyses on datasets
+
 |── CODE_OF_CONDUCT.md
+
 |── CONTRIBUTING.md
+
 |── environment.yml                <- Environment file for installing Python libraries in conda
+
 |── LICENSE
+
 |── README.md
 
 
@@ -38,6 +49,7 @@ For example, `Data1_NV_State/Clark_County_Place_Political_Boundaries.zip` is a s
  
 
 ASDI Homepage: https://sustainability.aboutamazon.com/environment/the-cloud/asdi
+
 ASDI datasets: https://registry.opendata.aws/collab/asdi/
 
 
