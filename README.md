@@ -5,11 +5,11 @@ An environmentally sustainable lifestyle and a "Digital Nomad" career certainly 
 
 However, there are many socio-economic and environmental considerations for choosing where to live and work so it is worth doing a lot of research (and crunching the data!) before committing to this life-changing decision.
 
-In this notebook, I'll gather insights from the following ASDI datasets: \
-1. [Air quality data from OpenAQ](https://registry.opendata.aws/openaq/) \
-2. [Climate data from NOAA U.S. Climate Normals](https://registry.opendata.aws/noaa-climate-normals/) \
-3. [Population data from CIESIN and Meta](https://registry.opendata.aws/dataforgood-fb-hrsl/) \
-4. [Built environment information from Open City Model](https://registry.opendata.aws/opencitymodel/) \
+In this notebook, I'll gather insights from the following ASDI datasets: 
+1. [Air quality data from OpenAQ](https://registry.opendata.aws/openaq/) 
+2. [Climate data from NOAA U.S. Climate Normals](https://registry.opendata.aws/noaa-climate-normals/) 
+3. [Population data from CIESIN and Meta](https://registry.opendata.aws/dataforgood-fb-hrsl/) 
+4. [Built environment information from Open City Model](https://registry.opendata.aws/opencitymodel/) 
 
 Since this demo project is presented at the re:MARS 2022 conference, I'll characterise Las Vegas, Nevada from these datasets. Please feel free to adapt the code to your own cities of interest.
 
@@ -58,7 +58,7 @@ For example, `Data1_NV_State/Clark_County_Place_Political_Boundaries.zip` is a s
 **OpenAQ:** https://registry.opendata.aws/openaq/ \
 **NOAA U.S. Climate Normals:** https://registry.opendata.aws/noaa-climate-normals/ \
 **CIESIN and Meta:** https://registry.opendata.aws/dataforgood-fb-hrsl/ \
-**Open City Model:** https://registry.opendata.aws/opencitymodel/ \
+**Open City Model:** https://registry.opendata.aws/opencitymodel/ 
 
 
 ## Security
